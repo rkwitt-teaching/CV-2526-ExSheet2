@@ -7,7 +7,7 @@ for this exercise sheet via e-mail.*
 ## Exercise 1.1
 
 1. Create a tensor that holds $x= 2.0$ with `requires_grad=True`.  
-2. Compute 
+2. Compute
     $$f(x) = 3x^3 + 2x^2 - x + 1$$
     using PyTorch operations.  
 3. Use automatic differentiation to compute the derivative $\frac{\partial f}{\partial x}$ at $x = 2.0$.  
@@ -28,9 +28,7 @@ for this exercise sheet via e-mail.*
 
     and implement
 
-    $$
-    f(\mathbf{x}) = \| \mathbf{A}\mathbf{x} \|^2
-    $$
+    $$f(\mathbf{x}) = \| \mathbf{A}\mathbf{x} \|^2$$
 
 2. Compute $f(\mathbf{x})$ using PyTorch operations.  
 3. Use automatic differentiation to compute the derivative $\frac{\partial f}{\partial \mathbf{x}}$ at the $\mathbf{x}$ given above.  
