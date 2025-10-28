@@ -20,12 +20,14 @@ for this exercise sheet via e-mail.*
 ## Exercise 2.2
 
 1. Create two tensors for  
+
     $$\mathbf{A} = \left(\begin{matrix}
     1 & 2 \\
     3 & 4
     \end{matrix}\right),\ x = (1,1)^\top$$
-    
-    and implement 
+
+    and implement
+
     $$
     f(\mathbf{x}) = \| \mathbf{A}\mathbf{x} \|^2
     $$
