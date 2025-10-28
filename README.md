@@ -21,10 +21,8 @@ for this exercise sheet via e-mail.*
 
 1. Create two tensors for  
 
-    $$\mathbf{A} = \left(\begin{matrix}
-    1 & 2 \\
-    3 & 4
-    \end{matrix}\right),\ x = (1,1)^\top$$
+   A = [[1, 2],
+     [3, 4]],   x = (1, 1)^T
 
     and implement
 
