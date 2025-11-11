@@ -1,10 +1,10 @@
-# Exercise set 1
+# Exercise set 2
 
 *All assignments need to be implemented within the function skeletons found in `submission.py`
 and you need to hand in this file in the form `submission_<STUDENTID>.py` at the link provided
 for this exercise sheet via e-mail.*
 
-## Exercise 1.1
+## Exercise 2.1
 
 1. Create a tensor that holds $x= 2.0$ with `requires_grad=True`.  
 2. Compute
